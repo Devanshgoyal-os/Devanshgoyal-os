@@ -46,6 +46,6 @@ Collection of Data Structures & Algorithms problems solved in C++.
 
 ## 📫 Connect With Me
 
-LinkedIn: Add your LinkedIn profile here
+LinkedIn: https://leetcode.com/u/Devanshgoyal_19/
 
 GitHub: https://github.com/Devanshgoyal-os
